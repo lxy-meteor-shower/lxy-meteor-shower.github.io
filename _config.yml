@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xinyu Liu's Site"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xinyu Liu"
 description              : &description "personal description"
 url                      : https://lxy-meteor-shower.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/lxy-meteor-shower"
+  github           : "lxy-meteor-shower"
   google_plus      :
   keybase          :
   instagram        :
